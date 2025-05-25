@@ -1,0 +1,1407 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Supermarathon Trainingsplan 2025–2026//chat.openai.com//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20250603-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250603T070000
+DTSTART;TZID=Europe/Berlin:20250603T070000
+DTEND;TZID=Europe/Berlin:20250603T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250605-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250605T070000
+DTSTART;TZID=Europe/Berlin:20250605T070000
+DTEND;TZID=Europe/Berlin:20250605T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250607-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250607T070000
+DTSTART;TZID=Europe/Berlin:20250607T070000
+DTEND;TZID=Europe/Berlin:20250607T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250608-LangerLauf18–34km@chatgpt
+DTSTAMP:20250608T070000
+DTSTART;TZID=Europe/Berlin:20250608T070000
+DTEND;TZID=Europe/Berlin:20250608T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250610-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250610T070000
+DTSTART;TZID=Europe/Berlin:20250610T070000
+DTEND;TZID=Europe/Berlin:20250610T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250612-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250612T070000
+DTSTART;TZID=Europe/Berlin:20250612T070000
+DTEND;TZID=Europe/Berlin:20250612T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250614-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250614T070000
+DTSTART;TZID=Europe/Berlin:20250614T070000
+DTEND;TZID=Europe/Berlin:20250614T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250615-LangerLauf18–34km@chatgpt
+DTSTAMP:20250615T070000
+DTSTART;TZID=Europe/Berlin:20250615T070000
+DTEND;TZID=Europe/Berlin:20250615T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250617-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250617T070000
+DTSTART;TZID=Europe/Berlin:20250617T070000
+DTEND;TZID=Europe/Berlin:20250617T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250619-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250619T070000
+DTSTART;TZID=Europe/Berlin:20250619T070000
+DTEND;TZID=Europe/Berlin:20250619T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250621-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250621T070000
+DTSTART;TZID=Europe/Berlin:20250621T070000
+DTEND;TZID=Europe/Berlin:20250621T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250622-LangerLauf18–34km@chatgpt
+DTSTAMP:20250622T070000
+DTSTART;TZID=Europe/Berlin:20250622T070000
+DTEND;TZID=Europe/Berlin:20250622T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250624-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250624T070000
+DTSTART;TZID=Europe/Berlin:20250624T070000
+DTEND;TZID=Europe/Berlin:20250624T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250626-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250626T070000
+DTSTART;TZID=Europe/Berlin:20250626T070000
+DTEND;TZID=Europe/Berlin:20250626T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250628-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250628T070000
+DTSTART;TZID=Europe/Berlin:20250628T070000
+DTEND;TZID=Europe/Berlin:20250628T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250629-LangerLauf18–34km@chatgpt
+DTSTAMP:20250629T070000
+DTSTART;TZID=Europe/Berlin:20250629T070000
+DTEND;TZID=Europe/Berlin:20250629T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250701-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250701T070000
+DTSTART;TZID=Europe/Berlin:20250701T070000
+DTEND;TZID=Europe/Berlin:20250701T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250703-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250703T070000
+DTSTART;TZID=Europe/Berlin:20250703T070000
+DTEND;TZID=Europe/Berlin:20250703T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250705-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250705T070000
+DTSTART;TZID=Europe/Berlin:20250705T070000
+DTEND;TZID=Europe/Berlin:20250705T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250706-LangerLauf18–34km@chatgpt
+DTSTAMP:20250706T070000
+DTSTART;TZID=Europe/Berlin:20250706T070000
+DTEND;TZID=Europe/Berlin:20250706T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250708-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250708T070000
+DTSTART;TZID=Europe/Berlin:20250708T070000
+DTEND;TZID=Europe/Berlin:20250708T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250710-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250710T070000
+DTSTART;TZID=Europe/Berlin:20250710T070000
+DTEND;TZID=Europe/Berlin:20250710T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250712-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250712T070000
+DTSTART;TZID=Europe/Berlin:20250712T070000
+DTEND;TZID=Europe/Berlin:20250712T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250713-LangerLauf18–34km@chatgpt
+DTSTAMP:20250713T070000
+DTSTART;TZID=Europe/Berlin:20250713T070000
+DTEND;TZID=Europe/Berlin:20250713T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250715-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250715T070000
+DTSTART;TZID=Europe/Berlin:20250715T070000
+DTEND;TZID=Europe/Berlin:20250715T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250717-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250717T070000
+DTSTART;TZID=Europe/Berlin:20250717T070000
+DTEND;TZID=Europe/Berlin:20250717T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250719-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250719T070000
+DTSTART;TZID=Europe/Berlin:20250719T070000
+DTEND;TZID=Europe/Berlin:20250719T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250720-LangerLauf18–34km@chatgpt
+DTSTAMP:20250720T070000
+DTSTART;TZID=Europe/Berlin:20250720T070000
+DTEND;TZID=Europe/Berlin:20250720T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250722-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250722T070000
+DTSTART;TZID=Europe/Berlin:20250722T070000
+DTEND;TZID=Europe/Berlin:20250722T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250724-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250724T070000
+DTSTART;TZID=Europe/Berlin:20250724T070000
+DTEND;TZID=Europe/Berlin:20250724T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250726-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250726T070000
+DTSTART;TZID=Europe/Berlin:20250726T070000
+DTEND;TZID=Europe/Berlin:20250726T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250727-LangerLauf18–34km@chatgpt
+DTSTAMP:20250727T070000
+DTSTART;TZID=Europe/Berlin:20250727T070000
+DTEND;TZID=Europe/Berlin:20250727T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250729-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250729T070000
+DTSTART;TZID=Europe/Berlin:20250729T070000
+DTEND;TZID=Europe/Berlin:20250729T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250731-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250731T070000
+DTSTART;TZID=Europe/Berlin:20250731T070000
+DTEND;TZID=Europe/Berlin:20250731T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250802-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250802T070000
+DTSTART;TZID=Europe/Berlin:20250802T070000
+DTEND;TZID=Europe/Berlin:20250802T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250803-LangerLauf18–34km@chatgpt
+DTSTAMP:20250803T070000
+DTSTART;TZID=Europe/Berlin:20250803T070000
+DTEND;TZID=Europe/Berlin:20250803T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250805-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250805T070000
+DTSTART;TZID=Europe/Berlin:20250805T070000
+DTEND;TZID=Europe/Berlin:20250805T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250807-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250807T070000
+DTSTART;TZID=Europe/Berlin:20250807T070000
+DTEND;TZID=Europe/Berlin:20250807T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250809-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250809T070000
+DTSTART;TZID=Europe/Berlin:20250809T070000
+DTEND;TZID=Europe/Berlin:20250809T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250810-LangerLauf18–34km@chatgpt
+DTSTAMP:20250810T070000
+DTSTART;TZID=Europe/Berlin:20250810T070000
+DTEND;TZID=Europe/Berlin:20250810T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250812-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250812T070000
+DTSTART;TZID=Europe/Berlin:20250812T070000
+DTEND;TZID=Europe/Berlin:20250812T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250814-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250814T070000
+DTSTART;TZID=Europe/Berlin:20250814T070000
+DTEND;TZID=Europe/Berlin:20250814T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250816-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250816T070000
+DTSTART;TZID=Europe/Berlin:20250816T070000
+DTEND;TZID=Europe/Berlin:20250816T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250817-LangerLauf18–34km@chatgpt
+DTSTAMP:20250817T070000
+DTSTART;TZID=Europe/Berlin:20250817T070000
+DTEND;TZID=Europe/Berlin:20250817T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250819-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250819T070000
+DTSTART;TZID=Europe/Berlin:20250819T070000
+DTEND;TZID=Europe/Berlin:20250819T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250821-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250821T070000
+DTSTART;TZID=Europe/Berlin:20250821T070000
+DTEND;TZID=Europe/Berlin:20250821T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250823-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250823T070000
+DTSTART;TZID=Europe/Berlin:20250823T070000
+DTEND;TZID=Europe/Berlin:20250823T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250824-LangerLauf18–34km@chatgpt
+DTSTAMP:20250824T070000
+DTSTART;TZID=Europe/Berlin:20250824T070000
+DTEND;TZID=Europe/Berlin:20250824T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250826-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250826T070000
+DTSTART;TZID=Europe/Berlin:20250826T070000
+DTEND;TZID=Europe/Berlin:20250826T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250828-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250828T070000
+DTSTART;TZID=Europe/Berlin:20250828T070000
+DTEND;TZID=Europe/Berlin:20250828T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250830-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250830T070000
+DTSTART;TZID=Europe/Berlin:20250830T070000
+DTEND;TZID=Europe/Berlin:20250830T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250831-LangerLauf18–34km@chatgpt
+DTSTAMP:20250831T070000
+DTSTART;TZID=Europe/Berlin:20250831T070000
+DTEND;TZID=Europe/Berlin:20250831T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250902-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250902T070000
+DTSTART;TZID=Europe/Berlin:20250902T070000
+DTEND;TZID=Europe/Berlin:20250902T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250904-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250904T070000
+DTSTART;TZID=Europe/Berlin:20250904T070000
+DTEND;TZID=Europe/Berlin:20250904T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250906-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250906T070000
+DTSTART;TZID=Europe/Berlin:20250906T070000
+DTEND;TZID=Europe/Berlin:20250906T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250907-LangerLauf18–34km@chatgpt
+DTSTAMP:20250907T070000
+DTSTART;TZID=Europe/Berlin:20250907T070000
+DTEND;TZID=Europe/Berlin:20250907T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250909-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250909T070000
+DTSTART;TZID=Europe/Berlin:20250909T070000
+DTEND;TZID=Europe/Berlin:20250909T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250911-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250911T070000
+DTSTART;TZID=Europe/Berlin:20250911T070000
+DTEND;TZID=Europe/Berlin:20250911T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250913-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250913T070000
+DTSTART;TZID=Europe/Berlin:20250913T070000
+DTEND;TZID=Europe/Berlin:20250913T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250914-LangerLauf18–34km@chatgpt
+DTSTAMP:20250914T070000
+DTSTART;TZID=Europe/Berlin:20250914T070000
+DTEND;TZID=Europe/Berlin:20250914T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250916-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250916T070000
+DTSTART;TZID=Europe/Berlin:20250916T070000
+DTEND;TZID=Europe/Berlin:20250916T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250918-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250918T070000
+DTSTART;TZID=Europe/Berlin:20250918T070000
+DTEND;TZID=Europe/Berlin:20250918T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250920-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250920T070000
+DTSTART;TZID=Europe/Berlin:20250920T070000
+DTEND;TZID=Europe/Berlin:20250920T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250921-LangerLauf18–34km@chatgpt
+DTSTAMP:20250921T070000
+DTSTART;TZID=Europe/Berlin:20250921T070000
+DTEND;TZID=Europe/Berlin:20250921T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250923-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250923T070000
+DTSTART;TZID=Europe/Berlin:20250923T070000
+DTEND;TZID=Europe/Berlin:20250923T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20250925-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20250925T070000
+DTSTART;TZID=Europe/Berlin:20250925T070000
+DTEND;TZID=Europe/Berlin:20250925T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20250927-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20250927T070000
+DTSTART;TZID=Europe/Berlin:20250927T070000
+DTEND;TZID=Europe/Berlin:20250927T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20250928-LangerLauf18–34km@chatgpt
+DTSTAMP:20250928T070000
+DTSTART;TZID=Europe/Berlin:20250928T070000
+DTEND;TZID=Europe/Berlin:20250928T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20250930-Dauerlauf8–14km@chatgpt
+DTSTAMP:20250930T070000
+DTSTART;TZID=Europe/Berlin:20250930T070000
+DTEND;TZID=Europe/Berlin:20250930T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251002-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251002T070000
+DTSTART;TZID=Europe/Berlin:20251002T070000
+DTEND;TZID=Europe/Berlin:20251002T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251004-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251004T070000
+DTSTART;TZID=Europe/Berlin:20251004T070000
+DTEND;TZID=Europe/Berlin:20251004T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251005-LangerLauf18–34km@chatgpt
+DTSTAMP:20251005T070000
+DTSTART;TZID=Europe/Berlin:20251005T070000
+DTEND;TZID=Europe/Berlin:20251005T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251007-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251007T070000
+DTSTART;TZID=Europe/Berlin:20251007T070000
+DTEND;TZID=Europe/Berlin:20251007T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251009-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251009T070000
+DTSTART;TZID=Europe/Berlin:20251009T070000
+DTEND;TZID=Europe/Berlin:20251009T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251011-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251011T070000
+DTSTART;TZID=Europe/Berlin:20251011T070000
+DTEND;TZID=Europe/Berlin:20251011T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251012-LangerLauf18–34km@chatgpt
+DTSTAMP:20251012T070000
+DTSTART;TZID=Europe/Berlin:20251012T070000
+DTEND;TZID=Europe/Berlin:20251012T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251014-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251014T070000
+DTSTART;TZID=Europe/Berlin:20251014T070000
+DTEND;TZID=Europe/Berlin:20251014T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251016-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251016T070000
+DTSTART;TZID=Europe/Berlin:20251016T070000
+DTEND;TZID=Europe/Berlin:20251016T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251018-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251018T070000
+DTSTART;TZID=Europe/Berlin:20251018T070000
+DTEND;TZID=Europe/Berlin:20251018T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251019-LangerLauf18–34km@chatgpt
+DTSTAMP:20251019T070000
+DTSTART;TZID=Europe/Berlin:20251019T070000
+DTEND;TZID=Europe/Berlin:20251019T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251021-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251021T070000
+DTSTART;TZID=Europe/Berlin:20251021T070000
+DTEND;TZID=Europe/Berlin:20251021T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251023-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251023T070000
+DTSTART;TZID=Europe/Berlin:20251023T070000
+DTEND;TZID=Europe/Berlin:20251023T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251025-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251025T070000
+DTSTART;TZID=Europe/Berlin:20251025T070000
+DTEND;TZID=Europe/Berlin:20251025T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251026-LangerLauf18–34km@chatgpt
+DTSTAMP:20251026T070000
+DTSTART;TZID=Europe/Berlin:20251026T070000
+DTEND;TZID=Europe/Berlin:20251026T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251028-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251028T070000
+DTSTART;TZID=Europe/Berlin:20251028T070000
+DTEND;TZID=Europe/Berlin:20251028T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251030-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251030T070000
+DTSTART;TZID=Europe/Berlin:20251030T070000
+DTEND;TZID=Europe/Berlin:20251030T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251101-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251101T070000
+DTSTART;TZID=Europe/Berlin:20251101T070000
+DTEND;TZID=Europe/Berlin:20251101T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251102-LangerLauf18–34km@chatgpt
+DTSTAMP:20251102T070000
+DTSTART;TZID=Europe/Berlin:20251102T070000
+DTEND;TZID=Europe/Berlin:20251102T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251104-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251104T070000
+DTSTART;TZID=Europe/Berlin:20251104T070000
+DTEND;TZID=Europe/Berlin:20251104T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251106-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251106T070000
+DTSTART;TZID=Europe/Berlin:20251106T070000
+DTEND;TZID=Europe/Berlin:20251106T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251108-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251108T070000
+DTSTART;TZID=Europe/Berlin:20251108T070000
+DTEND;TZID=Europe/Berlin:20251108T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251109-LangerLauf18–34km@chatgpt
+DTSTAMP:20251109T070000
+DTSTART;TZID=Europe/Berlin:20251109T070000
+DTEND;TZID=Europe/Berlin:20251109T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251111-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251111T070000
+DTSTART;TZID=Europe/Berlin:20251111T070000
+DTEND;TZID=Europe/Berlin:20251111T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251113-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251113T070000
+DTSTART;TZID=Europe/Berlin:20251113T070000
+DTEND;TZID=Europe/Berlin:20251113T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251115-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251115T070000
+DTSTART;TZID=Europe/Berlin:20251115T070000
+DTEND;TZID=Europe/Berlin:20251115T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251116-LangerLauf18–34km@chatgpt
+DTSTAMP:20251116T070000
+DTSTART;TZID=Europe/Berlin:20251116T070000
+DTEND;TZID=Europe/Berlin:20251116T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251118-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251118T070000
+DTSTART;TZID=Europe/Berlin:20251118T070000
+DTEND;TZID=Europe/Berlin:20251118T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251120-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251120T070000
+DTSTART;TZID=Europe/Berlin:20251120T070000
+DTEND;TZID=Europe/Berlin:20251120T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251122-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251122T070000
+DTSTART;TZID=Europe/Berlin:20251122T070000
+DTEND;TZID=Europe/Berlin:20251122T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251123-LangerLauf18–34km@chatgpt
+DTSTAMP:20251123T070000
+DTSTART;TZID=Europe/Berlin:20251123T070000
+DTEND;TZID=Europe/Berlin:20251123T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251125-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251125T070000
+DTSTART;TZID=Europe/Berlin:20251125T070000
+DTEND;TZID=Europe/Berlin:20251125T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251127-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251127T070000
+DTSTART;TZID=Europe/Berlin:20251127T070000
+DTEND;TZID=Europe/Berlin:20251127T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251129-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251129T070000
+DTSTART;TZID=Europe/Berlin:20251129T070000
+DTEND;TZID=Europe/Berlin:20251129T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251130-LangerLauf18–34km@chatgpt
+DTSTAMP:20251130T070000
+DTSTART;TZID=Europe/Berlin:20251130T070000
+DTEND;TZID=Europe/Berlin:20251130T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251202-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251202T070000
+DTSTART;TZID=Europe/Berlin:20251202T070000
+DTEND;TZID=Europe/Berlin:20251202T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251204-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251204T070000
+DTSTART;TZID=Europe/Berlin:20251204T070000
+DTEND;TZID=Europe/Berlin:20251204T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251206-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251206T070000
+DTSTART;TZID=Europe/Berlin:20251206T070000
+DTEND;TZID=Europe/Berlin:20251206T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251207-LangerLauf18–34km@chatgpt
+DTSTAMP:20251207T070000
+DTSTART;TZID=Europe/Berlin:20251207T070000
+DTEND;TZID=Europe/Berlin:20251207T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251209-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251209T070000
+DTSTART;TZID=Europe/Berlin:20251209T070000
+DTEND;TZID=Europe/Berlin:20251209T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251211-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251211T070000
+DTSTART;TZID=Europe/Berlin:20251211T070000
+DTEND;TZID=Europe/Berlin:20251211T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251213-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251213T070000
+DTSTART;TZID=Europe/Berlin:20251213T070000
+DTEND;TZID=Europe/Berlin:20251213T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251214-LangerLauf18–34km@chatgpt
+DTSTAMP:20251214T070000
+DTSTART;TZID=Europe/Berlin:20251214T070000
+DTEND;TZID=Europe/Berlin:20251214T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251216-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251216T070000
+DTSTART;TZID=Europe/Berlin:20251216T070000
+DTEND;TZID=Europe/Berlin:20251216T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251218-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251218T070000
+DTSTART;TZID=Europe/Berlin:20251218T070000
+DTEND;TZID=Europe/Berlin:20251218T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251220-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251220T070000
+DTSTART;TZID=Europe/Berlin:20251220T070000
+DTEND;TZID=Europe/Berlin:20251220T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251221-LangerLauf18–34km@chatgpt
+DTSTAMP:20251221T070000
+DTSTART;TZID=Europe/Berlin:20251221T070000
+DTEND;TZID=Europe/Berlin:20251221T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251223-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251223T070000
+DTSTART;TZID=Europe/Berlin:20251223T070000
+DTEND;TZID=Europe/Berlin:20251223T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20251225-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20251225T070000
+DTSTART;TZID=Europe/Berlin:20251225T070000
+DTEND;TZID=Europe/Berlin:20251225T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20251227-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20251227T070000
+DTSTART;TZID=Europe/Berlin:20251227T070000
+DTEND;TZID=Europe/Berlin:20251227T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20251228-LangerLauf18–34km@chatgpt
+DTSTAMP:20251228T070000
+DTSTART;TZID=Europe/Berlin:20251228T070000
+DTEND;TZID=Europe/Berlin:20251228T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20251230-Dauerlauf8–14km@chatgpt
+DTSTAMP:20251230T070000
+DTSTART;TZID=Europe/Berlin:20251230T070000
+DTEND;TZID=Europe/Berlin:20251230T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260101-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260101T070000
+DTSTART;TZID=Europe/Berlin:20260101T070000
+DTEND;TZID=Europe/Berlin:20260101T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260103-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260103T070000
+DTSTART;TZID=Europe/Berlin:20260103T070000
+DTEND;TZID=Europe/Berlin:20260103T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260104-LangerLauf18–34km@chatgpt
+DTSTAMP:20260104T070000
+DTSTART;TZID=Europe/Berlin:20260104T070000
+DTEND;TZID=Europe/Berlin:20260104T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260106-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260106T070000
+DTSTART;TZID=Europe/Berlin:20260106T070000
+DTEND;TZID=Europe/Berlin:20260106T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260108-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260108T070000
+DTSTART;TZID=Europe/Berlin:20260108T070000
+DTEND;TZID=Europe/Berlin:20260108T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260110-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260110T070000
+DTSTART;TZID=Europe/Berlin:20260110T070000
+DTEND;TZID=Europe/Berlin:20260110T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260111-LangerLauf18–34km@chatgpt
+DTSTAMP:20260111T070000
+DTSTART;TZID=Europe/Berlin:20260111T070000
+DTEND;TZID=Europe/Berlin:20260111T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260113-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260113T070000
+DTSTART;TZID=Europe/Berlin:20260113T070000
+DTEND;TZID=Europe/Berlin:20260113T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260115-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260115T070000
+DTSTART;TZID=Europe/Berlin:20260115T070000
+DTEND;TZID=Europe/Berlin:20260115T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260117-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260117T070000
+DTSTART;TZID=Europe/Berlin:20260117T070000
+DTEND;TZID=Europe/Berlin:20260117T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260118-LangerLauf18–34km@chatgpt
+DTSTAMP:20260118T070000
+DTSTART;TZID=Europe/Berlin:20260118T070000
+DTEND;TZID=Europe/Berlin:20260118T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260120-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260120T070000
+DTSTART;TZID=Europe/Berlin:20260120T070000
+DTEND;TZID=Europe/Berlin:20260120T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260122-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260122T070000
+DTSTART;TZID=Europe/Berlin:20260122T070000
+DTEND;TZID=Europe/Berlin:20260122T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260124-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260124T070000
+DTSTART;TZID=Europe/Berlin:20260124T070000
+DTEND;TZID=Europe/Berlin:20260124T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260125-LangerLauf18–34km@chatgpt
+DTSTAMP:20260125T070000
+DTSTART;TZID=Europe/Berlin:20260125T070000
+DTEND;TZID=Europe/Berlin:20260125T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260127-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260127T070000
+DTSTART;TZID=Europe/Berlin:20260127T070000
+DTEND;TZID=Europe/Berlin:20260127T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260129-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260129T070000
+DTSTART;TZID=Europe/Berlin:20260129T070000
+DTEND;TZID=Europe/Berlin:20260129T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260131-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260131T070000
+DTSTART;TZID=Europe/Berlin:20260131T070000
+DTEND;TZID=Europe/Berlin:20260131T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260201-LangerLauf18–34km@chatgpt
+DTSTAMP:20260201T070000
+DTSTART;TZID=Europe/Berlin:20260201T070000
+DTEND;TZID=Europe/Berlin:20260201T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260203-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260203T070000
+DTSTART;TZID=Europe/Berlin:20260203T070000
+DTEND;TZID=Europe/Berlin:20260203T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260205-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260205T070000
+DTSTART;TZID=Europe/Berlin:20260205T070000
+DTEND;TZID=Europe/Berlin:20260205T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260207-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260207T070000
+DTSTART;TZID=Europe/Berlin:20260207T070000
+DTEND;TZID=Europe/Berlin:20260207T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260208-LangerLauf18–34km@chatgpt
+DTSTAMP:20260208T070000
+DTSTART;TZID=Europe/Berlin:20260208T070000
+DTEND;TZID=Europe/Berlin:20260208T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260210-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260210T070000
+DTSTART;TZID=Europe/Berlin:20260210T070000
+DTEND;TZID=Europe/Berlin:20260210T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260212-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260212T070000
+DTSTART;TZID=Europe/Berlin:20260212T070000
+DTEND;TZID=Europe/Berlin:20260212T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260214-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260214T070000
+DTSTART;TZID=Europe/Berlin:20260214T070000
+DTEND;TZID=Europe/Berlin:20260214T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260215-LangerLauf18–34km@chatgpt
+DTSTAMP:20260215T070000
+DTSTART;TZID=Europe/Berlin:20260215T070000
+DTEND;TZID=Europe/Berlin:20260215T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260217-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260217T070000
+DTSTART;TZID=Europe/Berlin:20260217T070000
+DTEND;TZID=Europe/Berlin:20260217T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260219-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260219T070000
+DTSTART;TZID=Europe/Berlin:20260219T070000
+DTEND;TZID=Europe/Berlin:20260219T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260221-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260221T070000
+DTSTART;TZID=Europe/Berlin:20260221T070000
+DTEND;TZID=Europe/Berlin:20260221T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260222-LangerLauf18–34km@chatgpt
+DTSTAMP:20260222T070000
+DTSTART;TZID=Europe/Berlin:20260222T070000
+DTEND;TZID=Europe/Berlin:20260222T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260224-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260224T070000
+DTSTART;TZID=Europe/Berlin:20260224T070000
+DTEND;TZID=Europe/Berlin:20260224T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260226-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260226T070000
+DTSTART;TZID=Europe/Berlin:20260226T070000
+DTEND;TZID=Europe/Berlin:20260226T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260228-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260228T070000
+DTSTART;TZID=Europe/Berlin:20260228T070000
+DTEND;TZID=Europe/Berlin:20260228T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260301-LangerLauf18–34km@chatgpt
+DTSTAMP:20260301T070000
+DTSTART;TZID=Europe/Berlin:20260301T070000
+DTEND;TZID=Europe/Berlin:20260301T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260303-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260303T070000
+DTSTART;TZID=Europe/Berlin:20260303T070000
+DTEND;TZID=Europe/Berlin:20260303T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260305-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260305T070000
+DTSTART;TZID=Europe/Berlin:20260305T070000
+DTEND;TZID=Europe/Berlin:20260305T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260307-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260307T070000
+DTSTART;TZID=Europe/Berlin:20260307T070000
+DTEND;TZID=Europe/Berlin:20260307T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260308-LangerLauf18–34km@chatgpt
+DTSTAMP:20260308T070000
+DTSTART;TZID=Europe/Berlin:20260308T070000
+DTEND;TZID=Europe/Berlin:20260308T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260310-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260310T070000
+DTSTART;TZID=Europe/Berlin:20260310T070000
+DTEND;TZID=Europe/Berlin:20260310T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260312-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260312T070000
+DTSTART;TZID=Europe/Berlin:20260312T070000
+DTEND;TZID=Europe/Berlin:20260312T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260314-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260314T070000
+DTSTART;TZID=Europe/Berlin:20260314T070000
+DTEND;TZID=Europe/Berlin:20260314T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260315-LangerLauf18–34km@chatgpt
+DTSTAMP:20260315T070000
+DTSTART;TZID=Europe/Berlin:20260315T070000
+DTEND;TZID=Europe/Berlin:20260315T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260317-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260317T070000
+DTSTART;TZID=Europe/Berlin:20260317T070000
+DTEND;TZID=Europe/Berlin:20260317T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260319-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260319T070000
+DTSTART;TZID=Europe/Berlin:20260319T070000
+DTEND;TZID=Europe/Berlin:20260319T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260321-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260321T070000
+DTSTART;TZID=Europe/Berlin:20260321T070000
+DTEND;TZID=Europe/Berlin:20260321T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260322-LangerLauf18–34km@chatgpt
+DTSTAMP:20260322T070000
+DTSTART;TZID=Europe/Berlin:20260322T070000
+DTEND;TZID=Europe/Berlin:20260322T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260324-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260324T070000
+DTSTART;TZID=Europe/Berlin:20260324T070000
+DTEND;TZID=Europe/Berlin:20260324T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260326-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260326T070000
+DTSTART;TZID=Europe/Berlin:20260326T070000
+DTEND;TZID=Europe/Berlin:20260326T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260328-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260328T070000
+DTSTART;TZID=Europe/Berlin:20260328T070000
+DTEND;TZID=Europe/Berlin:20260328T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260329-LangerLauf18–34km@chatgpt
+DTSTAMP:20260329T070000
+DTSTART;TZID=Europe/Berlin:20260329T070000
+DTEND;TZID=Europe/Berlin:20260329T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260331-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260331T070000
+DTSTART;TZID=Europe/Berlin:20260331T070000
+DTEND;TZID=Europe/Berlin:20260331T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260402-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260402T070000
+DTSTART;TZID=Europe/Berlin:20260402T070000
+DTEND;TZID=Europe/Berlin:20260402T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260404-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260404T070000
+DTSTART;TZID=Europe/Berlin:20260404T070000
+DTEND;TZID=Europe/Berlin:20260404T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260405-LangerLauf18–34km@chatgpt
+DTSTAMP:20260405T070000
+DTSTART;TZID=Europe/Berlin:20260405T070000
+DTEND;TZID=Europe/Berlin:20260405T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260407-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260407T070000
+DTSTART;TZID=Europe/Berlin:20260407T070000
+DTEND;TZID=Europe/Berlin:20260407T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260409-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260409T070000
+DTSTART;TZID=Europe/Berlin:20260409T070000
+DTEND;TZID=Europe/Berlin:20260409T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260411-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260411T070000
+DTSTART;TZID=Europe/Berlin:20260411T070000
+DTEND;TZID=Europe/Berlin:20260411T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260412-LangerLauf18–34km@chatgpt
+DTSTAMP:20260412T070000
+DTSTART;TZID=Europe/Berlin:20260412T070000
+DTEND;TZID=Europe/Berlin:20260412T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260414-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260414T070000
+DTSTART;TZID=Europe/Berlin:20260414T070000
+DTEND;TZID=Europe/Berlin:20260414T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260416-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260416T070000
+DTSTART;TZID=Europe/Berlin:20260416T070000
+DTEND;TZID=Europe/Berlin:20260416T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260418-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260418T070000
+DTSTART;TZID=Europe/Berlin:20260418T070000
+DTEND;TZID=Europe/Berlin:20260418T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260419-LangerLauf18–34km@chatgpt
+DTSTAMP:20260419T070000
+DTSTART;TZID=Europe/Berlin:20260419T070000
+DTEND;TZID=Europe/Berlin:20260419T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260421-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260421T070000
+DTSTART;TZID=Europe/Berlin:20260421T070000
+DTEND;TZID=Europe/Berlin:20260421T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260423-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260423T070000
+DTSTART;TZID=Europe/Berlin:20260423T070000
+DTEND;TZID=Europe/Berlin:20260423T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260425-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260425T070000
+DTSTART;TZID=Europe/Berlin:20260425T070000
+DTEND;TZID=Europe/Berlin:20260425T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260426-LangerLauf18–34km@chatgpt
+DTSTAMP:20260426T070000
+DTSTART;TZID=Europe/Berlin:20260426T070000
+DTEND;TZID=Europe/Berlin:20260426T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260428-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260428T070000
+DTSTART;TZID=Europe/Berlin:20260428T070000
+DTEND;TZID=Europe/Berlin:20260428T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260430-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260430T070000
+DTSTART;TZID=Europe/Berlin:20260430T070000
+DTEND;TZID=Europe/Berlin:20260430T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260502-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260502T070000
+DTSTART;TZID=Europe/Berlin:20260502T070000
+DTEND;TZID=Europe/Berlin:20260502T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260503-LangerLauf18–34km@chatgpt
+DTSTAMP:20260503T070000
+DTSTART;TZID=Europe/Berlin:20260503T070000
+DTEND;TZID=Europe/Berlin:20260503T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260505-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260505T070000
+DTSTART;TZID=Europe/Berlin:20260505T070000
+DTEND;TZID=Europe/Berlin:20260505T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260507-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260507T070000
+DTSTART;TZID=Europe/Berlin:20260507T070000
+DTEND;TZID=Europe/Berlin:20260507T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260509-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260509T070000
+DTSTART;TZID=Europe/Berlin:20260509T070000
+DTEND;TZID=Europe/Berlin:20260509T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260510-LangerLauf18–34km@chatgpt
+DTSTAMP:20260510T070000
+DTSTART;TZID=Europe/Berlin:20260510T070000
+DTEND;TZID=Europe/Berlin:20260510T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT BEGIN:VEVENT
+UID:20260512-Dauerlauf8–14km@chatgpt
+DTSTAMP:20260512T070000
+DTSTART;TZID=Europe/Berlin:20260512T070000
+DTEND;TZID=Europe/Berlin:20260512T080000
+SUMMARY:Dauerlauf 8–14 km
+DESCRIPTION:Grundlagentempo, locker laufen, Puls unter Kontrolle halten.
+END:VEVENT BEGIN:VEVENT
+UID:20260514-Fahrtspiel/Tempowechsel6–12km@chatgpt
+DTSTAMP:20260514T070000
+DTSTART;TZID=Europe/Berlin:20260514T070000
+DTEND;TZID=Europe/Berlin:20260514T080000
+SUMMARY:Fahrtspiel / Tempowechsel 6–12 km
+DESCRIPTION:Beispiel: 5×3 Min zügig, dazwischen 2 Min locker. Tempogefühl trainieren.
+END:VEVENT BEGIN:VEVENT
+UID:20260516-Techniklauf+6kmlocker@chatgpt
+DTSTAMP:20260516T070000
+DTSTART;TZID=Europe/Berlin:20260516T070000
+DTEND;TZID=Europe/Berlin:20260516T080000
+SUMMARY:Techniklauf + 6 km locker
+DESCRIPTION:Lauf-ABC, kurze Steigerungen, Fokus auf Bewegungsqualität und Koordination.
+END:VEVENT BEGIN:VEVENT
+UID:20260517-LangerLauf18–34km@chatgpt
+DTSTAMP:20260517T070000
+DTSTART;TZID=Europe/Berlin:20260517T070000
+DTEND;TZID=Europe/Berlin:20260517T080000
+SUMMARY:Langer Lauf 18–34 km
+DESCRIPTION:Konstanter Trainingslauf, welliges Gelände, ideal zur Ernährungserprobung.
+END:VEVENT
+END:VCALENDAR
